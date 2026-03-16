@@ -74,7 +74,7 @@ AI Systems
 
 ## 📊 GitHub Stats
 
-![Rahhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahhulreddi&show_icons=true)
+![Rahhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahhul1309&show_icons=true)
 
 ---
 
