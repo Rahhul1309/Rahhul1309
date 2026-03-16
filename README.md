@@ -1,6 +1,6 @@
 # Hi, I'm Rahhul 👋
 
-Backend and distributed systems engineer focused on building reliable infrastructure, scalable data systems, and AI-enabled platforms.
+Backend and distributed systems engineer focused on building reliable infrastructure, scalable backend systems, and AI-enabled platforms.
 
 🎓 MS in Software Engineering Systems — Northeastern University  
 📍 Seattle, WA  
@@ -11,7 +11,7 @@ Backend and distributed systems engineer focused on building reliable infrastruc
 ## 🚀 What I Work On
 
 • Backend systems and microservices  
-• Distributed event-driven architectures (Kafka, Flink)  
+• Distributed event-driven architectures (Kafka)  
 • Cloud infrastructure and Kubernetes deployments  
 • CI/CD pipelines and developer tooling  
 • LLM systems (RAG pipelines, fine-tuning, AI agents)
@@ -21,15 +21,15 @@ Backend and distributed systems engineer focused on building reliable infrastruc
 ## 🧠 Selected Projects
 
 ### Distributed Experimentation Platform
-Java + Kafka + Flink
+Java + Kafka
 
-A platform for running large-scale experimentation pipelines processing 100K+ daily events.
+A platform for running large-scale experimentation pipelines processing high volumes of events.
 
 Key Features
-- Stateful stream processing
 - Event-driven architecture
 - Fault-tolerant pipelines
-- Production monitoring
+- Queue-backed microservices
+- Production monitoring and reliability improvements
 
 ---
 
@@ -70,13 +70,6 @@ Data Systems
 AI Systems  
 `RAG` `LoRA` `Vector Databases`
 
----
-
-## 📊 GitHub Stats
-
-![Rahhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahhul1309&show_icons=true)
-
----
 
 ## 🤝 Let's Connect
 
